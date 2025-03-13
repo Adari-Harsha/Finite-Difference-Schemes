@@ -56,9 +56,9 @@ pip install numpy matplotlib scipy
 To run the simulations, execute the Python scripts. For example:
 
 ```bash
-python "Explicit Finite Difference Method for Heat Equation"
-python "Implicit Scheme: Heat Equation Simulation"
-python "Theta Scheme Simulation of the Heat Equation"
+python "Explicit Scheme.py"
+python "Implicit Scheme.py"
+python "Theta Scheme.py"
 ```
 
 ## True Solution and Error Calculation
